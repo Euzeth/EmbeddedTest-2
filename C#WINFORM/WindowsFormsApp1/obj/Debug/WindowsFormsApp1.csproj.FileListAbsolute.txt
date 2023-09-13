@@ -1,0 +1,10 @@
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ChiYeon\OneDrive\Desktop\Embedded\04웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
